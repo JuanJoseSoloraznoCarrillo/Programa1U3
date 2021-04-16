@@ -12,7 +12,7 @@ package rangonumerico;
  */
 
 public class Metodos {
-    //Variables para ña clase Metodos.
+    //Variables para la clase Metodos.
     private int x1;
     private int x2;
     private int i;
