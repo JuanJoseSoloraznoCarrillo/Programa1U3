@@ -1,24 +1,18 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * @Autor: Juan Jose Solorzano Carrillo.
+ * @Propose: This script was made to explain some Jave methods.	 
  */
 package rangonumerico;
 
-
-/**
- *
- * @author JuanJose
- */
-
 public class Metodos {
-    //Variables para la clase Metodos.
+    //Variables para la clase 'Metodos'.
     private int x1;
     private int x2;
     private int i;
     private int j;
     
-    public Metodos (){//Método constructor por defecto.
+    public Metodos (){
+    //Método constructor por defecto.
     //Variables.    
         x1=-15;
         x2=30;
